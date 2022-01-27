@@ -5,15 +5,17 @@ VisualStudioVersion = 16.0.32106.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example", "Example\Example.csproj", "{496679E2-FC62-41B7-8735-EFBDFBBA2F43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{30AB0322-C080-4EE3-96B6-BEDA767AD43B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{30AB0322-C080-4EE3-96B6-BEDA767AD43B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpression", "LambdaExpression\LambdaExpression.csproj", "{D07E73A2-AFE1-4E44-B634-A541A28E1732}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaExpression", "LambdaExpression\LambdaExpression.csproj", "{D07E73A2-AFE1-4E44-B634-A541A28E1732}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionAndAction", "FunctionAndAction\FunctionAndAction.csproj", "{2A8D869C-6426-42DC-9AC5-337524A84786}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionAndAction", "FunctionAndAction\FunctionAndAction.csproj", "{2A8D869C-6426-42DC-9AC5-337524A84786}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryAndMethodSyntax", "QueryAndMethodSyntax\QueryAndMethodSyntax.csproj", "{2A8D4A33-E765-4228-B654-3CAECF5254A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueryAndMethodSyntax", "QueryAndMethodSyntax\QueryAndMethodSyntax.csproj", "{2A8D4A33-E765-4228-B654-3CAECF5254A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomFilterOperator", "CustomFilterOperator\CustomFilterOperator.csproj", "{785D6F3A-43BD-4C4A-8219-E27BEC6E4E0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomFilterOperator", "CustomFilterOperator\CustomFilterOperator.csproj", "{785D6F3A-43BD-4C4A-8219-E27BEC6E4E0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilteringOperators", "FilteringOperators\FilteringOperators.csproj", "{C929E866-4B31-4F95-A46A-23D3804CB205}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{785D6F3A-43BD-4C4A-8219-E27BEC6E4E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{785D6F3A-43BD-4C4A-8219-E27BEC6E4E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{785D6F3A-43BD-4C4A-8219-E27BEC6E4E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C929E866-4B31-4F95-A46A-23D3804CB205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C929E866-4B31-4F95-A46A-23D3804CB205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C929E866-4B31-4F95-A46A-23D3804CB205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C929E866-4B31-4F95-A46A-23D3804CB205}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
