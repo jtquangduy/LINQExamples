@@ -15,7 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueryAndMethodSyntax", "Que
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomFilterOperator", "CustomFilterOperator\CustomFilterOperator.csproj", "{785D6F3A-43BD-4C4A-8219-E27BEC6E4E0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilteringOperators", "FilteringOperators\FilteringOperators.csproj", "{C929E866-4B31-4F95-A46A-23D3804CB205}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FilteringOperators", "FilteringOperators\FilteringOperators.csproj", "{C929E866-4B31-4F95-A46A-23D3804CB205}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingOperator", "SortingOperator\SortingOperator.csproj", "{ADDB6555-757A-44DD-B0C8-E3E2173EDC28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{1CEB44E6-3F15-44AE-AF84-6806F17A935D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{C929E866-4B31-4F95-A46A-23D3804CB205}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C929E866-4B31-4F95-A46A-23D3804CB205}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C929E866-4B31-4F95-A46A-23D3804CB205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADDB6555-757A-44DD-B0C8-E3E2173EDC28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADDB6555-757A-44DD-B0C8-E3E2173EDC28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADDB6555-757A-44DD-B0C8-E3E2173EDC28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADDB6555-757A-44DD-B0C8-E3E2173EDC28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CEB44E6-3F15-44AE-AF84-6806F17A935D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CEB44E6-3F15-44AE-AF84-6806F17A935D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CEB44E6-3F15-44AE-AF84-6806F17A935D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CEB44E6-3F15-44AE-AF84-6806F17A935D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
