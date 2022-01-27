@@ -6,6 +6,8 @@ namespace CustomFilterOperator
 {
     public static class MyLinq
     {
+        //1. Read only
+        //2. Forward only
         public static IEnumerable<T> Filter<T>(this IEnumerable<T> source, Func<T, bool> predicate)
         {
             var result = new List<T>();

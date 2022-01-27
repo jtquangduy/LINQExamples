@@ -18,7 +18,7 @@ namespace CustomFilterOperator
                 new Student() {studentID=5,studentName="Ron",Age=15},
             };
 
-            var result = students.Where(s => s.Age > 12);
+            var result = students.Filter(s => s.Age > 12);
 
             foreach(var student in students)
             {
