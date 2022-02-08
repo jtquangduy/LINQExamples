@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerationOperator", "Gener
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetOperator", "SetOperator\SetOperator.csproj", "{242658F4-4A47-47A2-ABE5-9AEC4C39E5D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartitioningOperator", "PartitioningOperator\PartitioningOperator.csproj", "{923BAE67-86FF-4D35-ADC9-577703A2A971}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{242658F4-4A47-47A2-ABE5-9AEC4C39E5D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{242658F4-4A47-47A2-ABE5-9AEC4C39E5D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{242658F4-4A47-47A2-ABE5-9AEC4C39E5D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{923BAE67-86FF-4D35-ADC9-577703A2A971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{923BAE67-86FF-4D35-ADC9-577703A2A971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{923BAE67-86FF-4D35-ADC9-577703A2A971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{923BAE67-86FF-4D35-ADC9-577703A2A971}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
