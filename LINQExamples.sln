@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImmediateExecution", "Immed
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expression", "Expression\Expression.csproj", "{672EE1B5-D3A1-43E0-B87F-5946A92CDF57}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionTree", "ExpressionTree\ExpressionTree.csproj", "{7EC7DE7D-456B-4966-A6A6-7CB85C4740D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{672EE1B5-D3A1-43E0-B87F-5946A92CDF57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{672EE1B5-D3A1-43E0-B87F-5946A92CDF57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{672EE1B5-D3A1-43E0-B87F-5946A92CDF57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EC7DE7D-456B-4966-A6A6-7CB85C4740D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EC7DE7D-456B-4966-A6A6-7CB85C4740D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EC7DE7D-456B-4966-A6A6-7CB85C4740D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EC7DE7D-456B-4966-A6A6-7CB85C4740D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
