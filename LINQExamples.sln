@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartitioningOperator", "Par
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversionOperator", "ConversionOperator\ConversionOperator.csproj", "{FA1E1604-7DB4-4401-8194-7D58FC9231CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeferredExecution", "DeferredExecution\DeferredExecution.csproj", "{76631B61-D12D-4E76-BDD4-2BCB7B4663B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{FA1E1604-7DB4-4401-8194-7D58FC9231CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA1E1604-7DB4-4401-8194-7D58FC9231CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA1E1604-7DB4-4401-8194-7D58FC9231CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76631B61-D12D-4E76-BDD4-2BCB7B4663B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76631B61-D12D-4E76-BDD4-2BCB7B4663B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76631B61-D12D-4E76-BDD4-2BCB7B4663B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76631B61-D12D-4E76-BDD4-2BCB7B4663B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
