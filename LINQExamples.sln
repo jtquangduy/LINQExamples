@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcatenationOperator", "Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerationOperator", "GenerationOperator\GenerationOperator.csproj", "{1B43A271-A0CB-4687-AB6C-1B1D09B97C4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetOperator", "SetOperator\SetOperator.csproj", "{242658F4-4A47-47A2-ABE5-9AEC4C39E5D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{1B43A271-A0CB-4687-AB6C-1B1D09B97C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B43A271-A0CB-4687-AB6C-1B1D09B97C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B43A271-A0CB-4687-AB6C-1B1D09B97C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{242658F4-4A47-47A2-ABE5-9AEC4C39E5D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{242658F4-4A47-47A2-ABE5-9AEC4C39E5D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{242658F4-4A47-47A2-ABE5-9AEC4C39E5D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{242658F4-4A47-47A2-ABE5-9AEC4C39E5D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
