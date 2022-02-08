@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeferredExecution", "Deferr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImmediateExecution", "ImmediateExecution\ImmediateExecution.csproj", "{82C3CA0F-DA99-46B0-ABA0-94C5D790F7AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expression", "Expression\Expression.csproj", "{672EE1B5-D3A1-43E0-B87F-5946A92CDF57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{82C3CA0F-DA99-46B0-ABA0-94C5D790F7AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82C3CA0F-DA99-46B0-ABA0-94C5D790F7AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82C3CA0F-DA99-46B0-ABA0-94C5D790F7AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{672EE1B5-D3A1-43E0-B87F-5946A92CDF57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{672EE1B5-D3A1-43E0-B87F-5946A92CDF57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{672EE1B5-D3A1-43E0-B87F-5946A92CDF57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{672EE1B5-D3A1-43E0-B87F-5946A92CDF57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
